@@ -12,7 +12,7 @@ Here are some screens from the app :
 
 ![Web capture_29-9-2021_111035_localhost](https://user-images.githubusercontent.com/34404031/135249434-439e4dfc-338e-4119-8041-28a16ced64c1.jpeg)
 
-![Web capture_29-9-2021_111117_localhost](https://user-images.githubusercontent.com/34404031/135249461-b3a42b79-4acf-4cb4-944f-dfd4db570850.jpeg)
+![Web capture_29-9-2021_111623_order-app-bens herokuapp com](https://user-images.githubusercontent.com/34404031/135249995-d540c8bf-acfb-4f9a-b375-fa1eed77896e.jpeg)
 
 The application is hosted on Heroku.
 
