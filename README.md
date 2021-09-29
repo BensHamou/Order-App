@@ -1,7 +1,7 @@
 # Order-App
 A web application for restaurant order taking system, includes queue and admin page, order, product and category management.
 
-Here is a screen from the app :
+Here are some screens from the app :
 ![Web capture_29-9-2021_11425_localhost](https://user-images.githubusercontent.com/34404031/135249258-c4b19554-2252-4413-881c-4a815146a13e.jpeg)
 
 ![Web capture_29-9-2021_11911_localhost](https://user-images.githubusercontent.com/34404031/135249298-7e967198-6311-434d-87e2-4c627939e7f6.jpeg)
